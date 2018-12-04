@@ -1,0 +1,2 @@
+# VoiceRecognition
+Compile and recognize 
